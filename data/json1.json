@@ -1,0 +1,14 @@
+{
+  "id":1,
+  "firstName":"Hulio",
+  "lastName":"Marchenetto",
+  "active":true,
+  "address":{
+    "street":"Gette",
+    "city":"Almaty",
+    "state":"Almatinskaya",
+    "zip":"520345",
+    "country":"Kazahstan"
+  },
+  "language":["java","piton","JavaScript"]
+}
